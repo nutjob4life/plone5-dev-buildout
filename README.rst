@@ -28,7 +28,7 @@ Then do your usual::
 And thanks to the magic of `buildout.packagename`_ you've got
 
 ``bin/plone``
-    A Zope instance with Plone 4, Pillow, and your in-development package
+    A Zope instance with Plone, Pillow, and your in-development package
     ready to launch.
 ``bin/test``
     A Zope test runner with your in-development package ready to test.
