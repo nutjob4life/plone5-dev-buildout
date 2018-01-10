@@ -16,7 +16,7 @@ Now you've got the latest Buildout_ boostrapper, so make this two-line
 ``buildout.cfg``::
 
     [buildout]
-    extends = https://raw.github.com/nutjob4life/plone5-dev-buildout/1.0.0/buildout.cfg
+    extends = https://raw.githubusercontent.com/nutjob4life/plone5-dev-buildout/master/buildout.cfg
 
 (Substitute version numbers as appropraite.)
 
